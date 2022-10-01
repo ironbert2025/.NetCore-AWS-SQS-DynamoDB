@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "Sj6K86+jOuq64Uh71/VgARRRFx9dlYky9xCokRyFKpZoe7lErXUj/4R4hQ//CjiYqWuknloOnYrucTET/LKqIg==",
+  "dgSpecHash": "IAb3xkT1RE3+VXIcAQCx8l+OaH3l5tfvYLf2Bzi+03XvwT372f+tqgWfk3IjVx2w+pb1BoaicgZrXo3QJTtniw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aldor\\source\\repos\\ContantSample\\ContantSample\\ContantSample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aldor\\.nuget\\packages\\aws.logger.aspnetcore\\3.3.0\\aws.logger.aspnetcore.3.3.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\aws.logger.core\\3.1.0\\aws.logger.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\awssdk.cloudwatchlogs\\3.7.0.5\\awssdk.cloudwatchlogs.3.7.0.5.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\awssdk.core\\3.7.13.14\\awssdk.core.3.7.13.14.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.5.10\\awssdk.dynamodbv2.3.7.5.10.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2\\awssdk.extensions.netcore.setup.3.7.2.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\awssdk.sqs\\3.7.2.113\\awssdk.sqs.3.7.2.113.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\aldor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
